@@ -1,0 +1,18 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
+%TF.CreationDate,2026-09-22T23:20:00+05:30*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+%MOMM*%
+%LPD*%
+G01*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+D10*
+X100500000Y-50000000D02*
+X343500000Y-50000000D01*
+X343500000Y-293000000D01*
+X100500000Y-293000000D01*
+X100500000Y-50000000D01*
+M02*

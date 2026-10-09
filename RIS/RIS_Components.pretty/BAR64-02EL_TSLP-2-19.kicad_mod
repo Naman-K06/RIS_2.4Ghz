@@ -1,0 +1,73 @@
+(footprint "BAR64-02EL_TSLP-2-19"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(hide yes)
+		(uuid "0ad4f17f-e24a-40ec-9431-aabd7dd9cfca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "BAR64-02EL_TSLP-2-19"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc82fb7c-9c9d-4413-8dce-b8d3fcbe5806")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c88d523-3814-49a9-b2a0-285da6681e76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4509b99a-398b-49d0-94f7-23820e672e78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" smd rect
+		(at -0.4 -0.65)
+		(size 0.4 0.4)
+		(layers "*.Mask" "B.Cu")
+		(uuid "cf8bca02-a47d-4e55-b7c3-869ec6e0c0b7")
+	)
+	(pad "2" smd rect
+		(at 0.4 -0.65)
+		(size 0.4 0.4)
+		(layers "*.Mask" "B.Cu")
+		(uuid "58e6f95d-e639-4d43-81c2-787a090a3f85")
+	)
+	(embedded_fonts no)
+)
